@@ -1,4 +1,4 @@
-# 🚀 TaskFlow - Modern Task Management App
+# 🚀 TaskFlow - Collaborative Project Management Platform
 
 A professional task management application with Kanban boards, real-time collaboration, and modern UI.
 
@@ -106,8 +106,5 @@ PORT=5001
 - `PUT /api/tasks/:id` - Update task
 - `DELETE /api/tasks/:id` - Delete task
 
-## 🤝 Contributing
-
-This is a portfolio project showcasing modern web development practices.
 
 
